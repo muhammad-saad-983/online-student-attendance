@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+pydantic
+pyyaml
+structlog
+pytest
+httpx
+python-dateutil
+opencv-python
+numpy
+torch
+torchvision
+Pillow
