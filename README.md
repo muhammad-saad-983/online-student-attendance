@@ -1,4 +1,5 @@
 # Face Attendance
+Online Student Attendance System is a face-recognition-based application that automatically marks students' attendance online using a camera. Students are first enrolled using their face data; a CNN model is trained and creates face embeddings for recognition. During attendance, the camera detects and identifies students, updates their attendance, allows for manual corrections when needed, and also supports exporting records in different formats like CSV, etc. 
 
 ## Requirements
 - Python 3.7.x
